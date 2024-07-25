@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{url_for('static', filename='../static/style_views/style_article.css')}}">
+    <title>Liste des Articles</title>
+</head>
+<body>
+    <h1>Liste des Articles</h1>
+    <div class="articles-container">
+        {% for article in articles %}
+        <div class="article-summary">
+            <h2>{{ article.title }}</h2>
+            <img src="{{ url_for('static', filename=article.image) }}" alt="{{ article.title }}">
+            <p>{{ article.content[:100] }}...</p>
+            <a href="{{ url_for('article_detail', title=article.title) }}">Lire la suite</a>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

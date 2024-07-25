@@ -1,0 +1,52 @@
+{
+    "articles": [
+        {
+            "title": "Premier Article",
+            "content": "Ceci est le contenu du premier article.",
+            "image": "../static/assets/premier_article.png",
+            "price": "20.00"
+        },
+        {
+            "title": "Deuxième Article",
+            "content": "Ceci est le contenu du deuxième article.",
+            "image": "../static/assets/deuxieme_article.png",
+            "price": "50.00"
+        },
+        {
+            "title": " Troixieme Article",
+            "content": "Ceci est le contenu du premier article.",
+            "image": "../static/assets/market_woman.png",
+            "price": "10.00"
+        },
+        {
+            "title": "Quatrieme Article",
+            "content": "Ceci est le contenu du deuxième article.",
+            "image": "../static/assets/woman1.png",
+            "price": "80.00"
+        },
+        {
+            "title": "Cinquieme Article",
+            "content": "Ceci est le contenu du premier article.",
+            "image": "../static/assets/woman.png",
+            "price": "60.00"
+        },
+        {
+            "title": "sicieme Article",
+            "content": "Ceci est le contenu du deuxième article.",
+            "image": "../static/assets/card.png",
+            "price": "70.00"
+        },
+        {
+            "title": "Septème Article",
+            "content": "Ceci est le contenu du premier article.",
+            "image": "../static/assets/quatrieme_article.png",
+            "price": "20.00"
+        },
+        {
+            "title": "Huitième Article",
+            "content": "Ceci est le contenu du deuxième article.",
+            "image": "../static/assets/troisieme_article.png",
+            "price": "90.00"
+        }
+    ]
+}

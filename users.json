@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "name": "godwin",
+            "email": "godwin@gmail.com",
+            "password": "13GODwin"
+        },
+        {
+            "name": "admin",
+            "email": "admin@gmail.com",
+            "password": "1515"
+        },
+        {
+            "name": "admin",
+            "email": "godwin@gmail.com",
+            "password": "1"
+        },
+        {
+            "name": "thibeault",
+            "email": "gagbemadokponou@gmail.com",
+            "password": "13GODwin"
+        },
+        {
+            "name": "admin",
+            "email": "admin@gmail.com",
+            "password": "55"
+        },
+        {
+            "name": "thibeault",
+            "email": "gagbemadokponou@gmail.com",
+            "password": "13GODwin"
+        },
+        {
+            "name": "admin",
+            "email": "godwin@gmail.com",
+            "password": "51"
+        },
+        {
+            "name": "godwin",
+            "email": "admin@gmail.com",
+            "password": "1515"
+        }
+    ]
+}
